@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 <h1 dir="auto"><a id="user-content--socials" class="anchor" aria-hidden="true" tabindex="-1" href="#-socials"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🌐 Socials:</h1>
 
 <p dir="auto">
- <a href="https://twitter.com/adityakaushik78" rel="nofollow">
+ <a href="https://twitter.com/adityakaushik78" target="_blank" rel="nofollow">
   <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
  </a> 
  
  
- <a href="https://www.linkedin.com/in/aditya-k-5a1288116/" rel="nofollow">
+ <a href="https://www.linkedin.com/in/aditya-k-5a1288116/" target="_blank" rel="nofollow">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
  
  </a> 
