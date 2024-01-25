@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love helping others based on my knowledge content.
 
 <a href="https://www.github.com/adityakaushik01" target="_blank" rel="noreferrer">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakaushik01&label=Profile%20views&color=0e75b6&style=flat" alt="adityakaushik01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakaushik01&label=Profile%20Views&color=0e75b6&style=flat" alt="adityakaushik01" /> </p>
 
 
 
