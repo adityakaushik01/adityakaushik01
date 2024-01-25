@@ -1,4 +1,4 @@
-### Hi there <div class="tenor-gif-embed" data-postid="17554626" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626"></a><a href="https://tenor.com/search/waving+hand-stickers"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+### Hi there <div class="tenor-gif-embed" data-postid="17554626" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626"></a><a href="https://tenor.com/search/waving+hand-stickers"></a></div>
 <!--
 **adityakaushik01/adityakaushik01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
