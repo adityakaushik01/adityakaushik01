@@ -1,5 +1,4 @@
-### Hi there [](https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626)
-
+### Hi there <img src="https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626">
 <!--
 **adityakaushik01/adityakaushik01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
