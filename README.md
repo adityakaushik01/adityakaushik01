@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Web Development. As a fresher, I am seeking new opportunities to grow and learn.<br>
+- 🔭 I’m currently working on Web Development. As a fresher, I am seeking new opportunities to grow and learn.<br><br>
 - 🌱 I’m currently learning Javascript and React.js.
 - 👯 I’m looking to collaborate on Fullstack projects.
 - 💬 Ask me about C, Java, Python, HTML, CSS, Bootstrap and any general software development or web development questions.
