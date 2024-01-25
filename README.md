@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 </article>
-
 <br>
+
 ## <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/adityakaushik01"><img src="https://github-readme-stats.vercel.app/api?username=adityakaushik01&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="adityakaushik01's GitHub stats" /></a>
