@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kaditya737@gmail.com
 - ⚡ Fun fact: I love helping others based on my knowledge content.
 
+<a href="https://www.github.com/adityakaushik01" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/adityakaushik01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakaushik01&label=Profile%20views&color=0e75b6&style=flat" alt="adityakaushik01" /> </p>
 
 
 
