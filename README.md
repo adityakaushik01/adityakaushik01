@@ -1,4 +1,4 @@
-### Hi there [](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29xMW9icng0NmszNG50ZW85MjF2dzk4anltZGpud2J2czA0cG0xaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QrhV2RTdTc4il2CUJK/giphy.gif)
+# Hi there 👋
 <!--
 **adityakaushik01/adityakaushik01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
