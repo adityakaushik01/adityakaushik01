@@ -6,7 +6,7 @@
 - 🌱 Exploring **Natural Language Processing (NLP) fundamentals** for building intelligent, decision-driven systems
 - 👯 Open to collaborating on **Full Stack and AI-powered projects** that solve real-world problems
 - 💬 Ask me about **JavaScript, React.js, Node.js, MongoDB, APIs, AI integration, automation workflows, and modern web development**
-- 🌐 Portfolio: https://adityakaushik01.github.io/
+- 🌐 Portfolio: [Click Here!](https://adityakaushik01.github.io/React-Portfolio/)
 - 📫 Reach me at: **kaditya737@gmail.com**
 - ⚡ Fun fact: I enjoy converting complex technical ideas into **simple, practical solutions**
 
