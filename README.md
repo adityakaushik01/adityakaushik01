@@ -1,67 +1,62 @@
-# Hi there 👋
-# 💫 About Me:
-<!--
-**adityakaushik01/adityakaushik01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Aditya Kaushik
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on Web Development. As a fresher, I am seeking new opportunities to grow and learn.
-- 🌱 I’m currently learning Javascript and React.js.
-- 👯 I’m looking to collaborate on Fullstack projects.
-- 💬 Ask me about C, Java, Python, HTML, CSS, Bootstrap and any general software development or web development questions.
-- 📫 How to reach me: kaditya737@gmail.com
-- ⚡ Fun fact: I love helping others based on my knowledge content.
+## 💫 About Me
+- 🔭 Software Developer building scalable web applications using **React.js and Node.js**
+- 🤖 Actively working on **AI-enabled application development**, focusing on **LLM integration, prompt engineering, intent detection, and workflow automation**
+- 🌱 Exploring **Natural Language Processing (NLP) fundamentals** for building intelligent, decision-driven systems
+- 👯 Open to collaborating on **Full Stack and AI-powered projects** that solve real-world problems
+- 💬 Ask me about **JavaScript, React.js, Node.js, MongoDB, APIs, AI integration, automation workflows, and modern web development**
+- 🌐 Portfolio: https://adityakaushik01.github.io/
+- 📫 Reach me at: **kaditya737@gmail.com**
+- ⚡ Fun fact: I enjoy converting complex technical ideas into **simple, practical solutions**
 
-<a href="https://www.github.com/adityakaushik01" target="_blank" rel="noreferrer">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakaushik01&label=Profile%20Views&color=0e75b6&style=flat" alt="adityakaushik01" /> </p>
+---
 
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/aditya-k-5a1288116/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/adityakaushik78" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
 
+---
 
- <article class="markdown-body entry-content container-lg f5" itemprop="text">  
-<h1 dir="auto"><a id="user-content--socials" class="anchor" aria-hidden="true" tabindex="-1" href="#-socials"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🌐 Socials:</h1>
+## 💻 Tech Stack
 
-<p dir="auto">
- <a href="https://twitter.com/adityakaushik78" target="_blank" rel="nofollow">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
- </a> 
- 
- 
- <a href="https://www.linkedin.com/in/aditya-k-5a1288116/" target="_blank" rel="nofollow">
- <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
- 
- </a> 
- 
- </p>
+### Frontend
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h1 dir="auto"><a id="user-content--tech-stack" class="anchor" aria-hidden="true" tabindex="-1" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>💻 Tech Stack:</h1>
-<div style="display:flex;">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
- 
-</div>
-</article>
-<br>
+### 🤖 AI & Automation
+- LLM Integration (API-based)
+- Prompt Engineering
+- Intent Classification & Entity Extraction
+- AI-powered Workflow Automation
+- NLP Fundamentals
 
-## <b>My GitHub Stats</b>
+### Programming & Tools
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<a href="http://www.github.com/adityakaushik01"><img src="https://github-readme-stats.vercel.app/api?username=adityakaushik01&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="adityakaushik01's GitHub stats" /></a>
+---
 
-<a href="https://github.com/adityakaushik01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakaushik01&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/adityakaushik01/Aditya-Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adityakaushik01&repo=Aditya-Portfolio&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/adityakaushik01/real-estate-landing-page-theme" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adityakaushik01&repo=Real-Estate-Landing-Page-Theme&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
+## 👁️ Profile Views
+<p>
+  <img src="https://komarev.com/ghpvc/?username=adityakaushik01&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
